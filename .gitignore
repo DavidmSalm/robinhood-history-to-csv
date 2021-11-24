@@ -1,6 +1,6 @@
 venv/
 *.csv
-
+.env
 geckodriver.log
 
 *.html
